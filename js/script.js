@@ -17,7 +17,7 @@ const projects = [
         fullDesc: "Научная разработка для магистратуры. Программа на Python и PyTorch с использованием искусственного интеллекта (нейросети) для динамического перераспределения ресурсов между виртуальными операторами в сетях 5G. ",
         tech: ["Python", "PyTorch", "Matplotlib", "NumPy", "SciPy", "Machine Learning", "5G"],
         images: ["5g_1.jpg", "5g_2.jpg"],
-        githubLink: "https://github.com/ibramGebrial/Network-slicing",
+        githubLink: null,
         certificate: "Свидетельство №2024682703"
     },
     {
@@ -27,7 +27,7 @@ const projects = [
         fullDesc: "Разработал полноценную платформу дистанционного обучения с использованием Django и SQLite/PostgreSQL. Система поддерживает три типа пользователей: студенты, преподаватели и администраторы. Основные возможности: создание и управление курсами, загрузка учебных материалов (видео, PDF, презентации), система тестирования с автоматической проверкой, отслеживание прогресса студентов, система уведомлений и форум для обсуждений.",
         tech: ["Python", "Django", "HTML/CSS", "JavaScript", "Bootstrap", "SQL", "Git"],
         images: ["lms_1.jpg", "lms_2.jpg", "lms_3.jpg", "lms_4.jpg", "lms_5.jpg", "lms_6.jpg"],
-        githubLink: "https://github.com/ibramGebrial/E-leaning-system",
+        githubLink: null,
         certificate: "Свидетельство №2022663203"
     },
     {
@@ -476,3 +476,4 @@ document.querySelectorAll('img').forEach(img => {
 });
 
 // 
+
