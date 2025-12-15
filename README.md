@@ -44,9 +44,10 @@ git clone https://github.com/your-username/portfolio.git
 ```
 2. Откройте index.html в браузере
 ## Онлайн просмотр
-Проект доступен по адресу: 
+Проект доступен по адресу: https://ibramghebrial.github.io/portfolio-/
 
 ## Контакты
 Email: ibramghebrial@gmail.com
 
 ORCID: 0009-0007-2682-8577
+
