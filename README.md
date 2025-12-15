@@ -21,6 +21,7 @@
 - **Деплой**: GitHub Pages
 
 ## 📁 Структура проекта
+```bash
 portfolio/
 ├── index.html
 ├── css/
@@ -34,13 +35,13 @@ portfolio/
 │ └── ...
 ├── README.md
 └── .gitignore
-
+```
 ## 🚀 Быстрый старт
 
 ### Локальный запуск
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/ibramghebrial/portfolio.git
 ```
 2. Откройте index.html в браузере
 ## Онлайн просмотр
@@ -50,4 +51,5 @@ git clone https://github.com/your-username/portfolio.git
 Email: ibramghebrial@gmail.com
 
 ORCID: 0009-0007-2682-8577
+
 
